@@ -10,7 +10,7 @@ async function start() {
         variablesChar: ":"
     });
 
-    await client.login('NDI1NjA3Njc3ODc2NTAyNTM4.WrDoCQ.bhycznXzh5XwxiACCwG5OK4uzCc');
+    await client.login('');
 
     console.log(Client.getCommands());
 };
